@@ -1,16 +1,57 @@
-# React + Vite
+# Restaurant Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive restaurant web application developed using **React.js** and **Bootstrap**.  
+The platform allows users to explore available food items, book table seats in advance, and place food orders through an intuitive and visually appealing user interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
 
-## React Compiler
+👉 **Live Website:**  
+https://sakshimalkar.github.io/Restaurant/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🍽️ Key Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 👤 User Features
+- View available food items with details and pricing  
+- Interactive and responsive UI with smooth navigation  
+- Table/seat booking system  
+- Online food ordering functionality  
+- Clean layout optimized for desktop and mobile devices  
+
+---
+
+## 🛠️ Technology Stack
+
+### Frontend
+- React.js  
+- Bootstrap  
+- JavaScript (ES6+)  
+- HTML5  
+- CSS3  
+
+---
+
+## Brutal but useful advice
+
+- React + Bootstrap is **good**, but **common**
+- Your **booking logic** and **order flow** must be real
+- If it’s static, say so — don’t lie in interviews
+
+To make this **stand out**:
+- Add form validation  
+- Add booking confirmation state  
+- Add cart summary for orders  
+
+---
+
+## Want more?
+I can:
+- Upgrade this README to **product-company level**
+- Review your **React folder structure**
+- Help you explain this project in **interviews**
+- Add **backend integration plan**
+
+Tell me what you want next.
