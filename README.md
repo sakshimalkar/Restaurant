@@ -1,57 +1,128 @@
-# Restaurant Website
+ # 🍽️ Restaurant — Modern Food Ordering & Table Booking App
 
-A modern and responsive restaurant web application developed using **React.js** and **Bootstrap**.  
-The platform allows users to explore available food items, book table seats in advance, and place food orders through an intuitive and visually appealing user interface.
+<div align="center">
 
----
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub_Pages-success?style=for-the-badge&logo=github)
 
-## 🔗 Live Demo
+### 🔗 [View Live Demo](https://sakshimalkar.github.io/Restaurant/)
 
-👉 **Live Website:**  
-https://sakshimalkar.github.io/Restaurant/
+*Explore. Book. Order. Enjoy — all in one place.* 🍕
 
----
-
-## 🍽️ Key Features
-
-### 👤 User Features
-- View available food items with details and pricing  
-- Interactive and responsive UI with smooth navigation  
-- Table/seat booking system  
-- Online food ordering functionality  
-- Clean layout optimized for desktop and mobile devices  
+</div>
 
 ---
 
-## 🛠️ Technology Stack
+## 🎯 What This App Does
 
-### Frontend
-- React.js  
-- Bootstrap  
-- JavaScript (ES6+)  
-- HTML5  
-- CSS3  
+A modern restaurant web app where users can **browse the menu**, **book a table in advance**, and **place food orders** — all through a clean, responsive React interface.
 
 ---
 
-## Brutal but useful advice
+## ✨ Features
 
-- React + Bootstrap is **good**, but **common**
-- Your **booking logic** and **order flow** must be real
-- If it’s static, say so — don’t lie in interviews
-
-To make this **stand out**:
-- Add form validation  
-- Add booking confirmation state  
-- Add cart summary for orders  
+| Feature | Description |
+|---------|-------------|
+| 🍔 **Menu Browsing** | View food items with details & pricing |
+| 🪑 **Table Booking** | Reserve seats in advance with booking form |
+| 🛒 **Food Ordering** | Place orders directly through the UI |
+| 📱 **Fully Responsive** | Optimised for desktop, tablet & mobile |
+| ⚡ **Smooth Navigation** | Fast, interactive React-powered UI |
+| 🎨 **Clean Layout** | Professional design using Bootstrap |
 
 ---
 
-## Want more?
-I can:
-- Upgrade this README to **product-company level**
-- Review your **React folder structure**
-- Help you explain this project in **interviews**
-- Add **backend integration plan**
+## 🛠️ Built With
 
-Tell me what you want next.
+| Technology | Purpose |
+|------------|---------|
+| React.js | Component-based dynamic UI |
+| Bootstrap 5 | Responsive layout & styling |
+| JavaScript ES6+ | Logic & interactivity |
+| HTML5 & CSS3 | Structure & custom styling |
+| GitHub Pages | Deployment & hosting |
+
+---
+
+## 🚀 Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/sakshimalkar/Restaurant.git
+
+# Navigate into the project
+cd Restaurant
+
+# Install dependencies
+npm install
+
+# Start development server
+npm start
+```
+
+## 📁 Project Structure
+
+```
+Restaurant/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── Menu.jsx
+│   │   ├── BookingForm.jsx
+│   │   ├── OrderCart.jsx
+│   │   └── Footer.jsx
+│   ├── assets/
+│   ├── App.jsx
+│   └── index.js
+├── package.json
+└── README.md
+```
+
+---
+
+## 💡 What I Learned
+
+- Building **multi-feature React apps** with clean component architecture
+- Handling **form state & validation** in React
+- Creating **responsive layouts** with Bootstrap 5
+- Designing **intuitive UX flows** for real-world use cases
+- Deploying **React apps** to GitHub Pages
+
+---
+
+## 🔮 Future Improvements
+
+- [ ] Backend with Django REST API
+- [ ] Real-time table availability checker
+- [ ] Payment gateway integration
+- [ ] Order tracking system
+- [ ] Admin dashboard for managing bookings
+- [ ] Email confirmation for table bookings
+
+---
+
+## 👩‍💻 Author
+
+**Sakshi Malkar** — Full Stack Developer
+
+- 🌐 Portfolio: [sakshimalkar.github.io/portfolio](https://sakshimalkar.github.io/portfolio/)
+- 💼 LinkedIn: [linkedin.com/in/sakshi-malkar](https://linkedin.com/in/sakshi-malkar)
+- 📧 Email: sakshimalkar286@gmail.com
+- 🐙 GitHub: [@sakshimalkar](https://github.com/sakshimalkar)
+
+---
+
+<div align="center">
+
+⭐ **Like this project? Give it a star!** ⭐
+
+*Built with ❤️ by Sakshi Malkar — Pune, Maharashtra*
+
+*Open to Internships & Junior Developer Roles*
+
+</div>
